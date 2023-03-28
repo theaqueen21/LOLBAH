@@ -1,2 +1,2 @@
 # LOLBAH
-Living Off The Land Binaries And Exploits(Coming Soon)
+Living Off The Land Binaries And Exploits (Coming Soon)
