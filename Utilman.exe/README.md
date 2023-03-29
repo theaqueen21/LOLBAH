@@ -25,6 +25,7 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 # 01 Change Utilman.exe To cmd.exe
 >Once The Installation Media Is Done, Plug In The USB Into The Victim's Machine
+
 >We Are Going To Change The Utilman.exe(Accessibility Function) To Open CMD Instead
 ![9](https://user-images.githubusercontent.com/94680549/228472093-4686d36e-e42e-4d44-86d7-d0e9b2784fc6.png)
 
@@ -33,6 +34,7 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 2.Once You Are In This Menu, Select Use A Device
 ![1](https://user-images.githubusercontent.com/94680549/228473575-eee0bd01-3650-4090-9cf6-d01a5145e819.jpg)
+
 Then Select The USB Installation Media You Created
 ![2](https://user-images.githubusercontent.com/94680549/228473698-5e6c03f3-2389-409e-8222-a3650e14ae49.jpg)
 
