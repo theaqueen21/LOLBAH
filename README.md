@@ -5,5 +5,5 @@ Malicious Use Of Utilities Or Tools That Are Already Installed In The Victim's E
 
 1. [Utilman]
 
-[Utilman]: https://github.com/theaqueen21/LOLBAH
+[Utilman]: https://github.com/theaqueen21/LOLBAH/Utilman.exe
 
