@@ -7,5 +7,7 @@ This Type Of Exploitation Requires Intial Access To The Environment
 
 1. [Utilman/Accessibility]
 
-[Utilman/Accessibility]: https://github.com/theaqueen21/LOLBAH/tree/main/Utilman.exe
+2. [TPMTool]
 
+[Utilman/Accessibility]: https://github.com/theaqueen21/LOLBAH/tree/main/Utilman.exe
+[TPMTool]: https://github.com/theaqueen21/LOLBAH/tree/main/TPMTool.exe
