@@ -40,7 +40,9 @@ tpmltool.exe drivertracing stop
 
 As You Can See The Process Is Successful But Instead Of Opening The logman.exe Utility The Calculator Is Opened
 
+
 Instead Of The Calculator You Can Make Use Of Malware Or Other Windows Utilities To Create Weird Or Malicious Behavior
+
 
 >Note: In The System Logs Nothing Out Of The Ordinary Is Present Which Makes Analysis For The SysAdmin Or The Blue Team Members Harder
 
