@@ -1,7 +1,9 @@
 # LOLBAH
 Living Off The Land Binaries And Exploits
 
-> [Utilman.exe] 
+Malicious Use Of Utilities Or Tools That Are Already Installed In The Victim's Environment
 
-[Utilman.exe] : https://github.com/theaqueen21/LOLBAH/Utilman.exe
+1.[Utilman]
+
+[Utilman]: https://github.com/theaqueen21/LOLBAH
 
