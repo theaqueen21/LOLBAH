@@ -41,7 +41,8 @@ Then Select The USB Installation Media You Created
 
 
 4.Once cmd Is Open
-To List The Logical Drives/Disks On The Machine
+
+List The Logical Drives/Disks On The Machine
 ```shell
 wmic logicaldisk get name
 ```
