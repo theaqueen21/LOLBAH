@@ -76,7 +76,7 @@ Once The Device Boots Up, Click On Accessibility/Utilman To Open CMD
 
 To Change The Password Of The User
 ```shell
-net user {user} {password}
+net user {username} {password}
 ```
 ![17](https://user-images.githubusercontent.com/94680549/228478711-df70880c-b9bd-4da1-9ce3-72d97ac131f2.png)
 
