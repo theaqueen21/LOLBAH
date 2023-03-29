@@ -24,8 +24,8 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 
 # 01 Change Utilman.exe To cmd.exe
->#Once The Installation Media Is Done, Plug In The USB Into The Victim's Machine
->#We Are Going To Change The Utilman.exe(Accessibility Function) To Open CMD Instead
+>Once The Installation Media Is Done, Plug In The USB Into The Victim's Machine
+>We Are Going To Change The Utilman.exe(Accessibility Function) To Open CMD Instead
 ![9](https://user-images.githubusercontent.com/94680549/228472093-4686d36e-e42e-4d44-86d7-d0e9b2784fc6.png)
 
 1.Restart While Holding The Shift Key
