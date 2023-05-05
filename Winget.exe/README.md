@@ -45,7 +45,7 @@ winget settings --enable localmanifestfiles
 winget install --manifest manifest.yml
 ```
 
-> Note: To Get The SHA256 Hash Of The Installer Run The Command "sha256sum {filename}" In Linux Terminal Or The Command "Get-FileHash -Algorithm SHA256 {filename}" In Windows Powershell
+> Note: To Get The SHA256 Hash Of The Installer Run The Commands Below Either In Linux Terminal Or In Windows Powershell
 
 Linux:
 
