@@ -2,6 +2,8 @@
 
 > Winget Is A Package Manager Developed By Microsoft For Windows. It Allows Users To Easily Install Applications And Tools From The Command Line Using A YAML Manifest File. It Is Available For Windows 10 Version 1809 And Later And Is Designed To Be Simple And Convenient For Managing Software On Windows Machines.
 
+## Note: This Method Is Not 100% Effective For AV Evasion.
+
 1. Press The Windows Key And R
 
 ```
