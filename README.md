@@ -9,5 +9,8 @@ This Type Of Exploitation Requires Intial Access To The Environment
 
 2. [TPMTool]
 
+3. [Winget]
+
 [Utilman/Accessibility]: https://github.com/theaqueen21/LOLBAH/tree/main/Utilman.exe
 [TPMTool]: https://github.com/theaqueen21/LOLBAH/tree/main/TPMTool.exe
+[Winget]: https://github.com/theaqueen21/LOLBAH/tree/main/Winget.exe
