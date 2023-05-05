@@ -3,7 +3,7 @@ Living Off The Land Binaries And Hacks
 
 Malicious Use Of Utilities Or Tools That Are Already Installed In The Victim's Environment
 
-This Type Of Exploitation Requires Intial Access To The Environment/Victim's Machine And Is Less Likely To Get Flagged And Makes Tracing For BlueTeamers A Lot Harder
+This Type Of Exploitation Requires Initial Access To The Environment/Victim's Machine, Is Less Likely To Get Flagged By EDRs/AVs And Makes Tracing For Blue Teamers A Lot Harder
 
 1. [Utilman/Accessibility]
 
