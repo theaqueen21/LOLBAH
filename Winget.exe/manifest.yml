@@ -1,0 +1,14 @@
+PackageIdentifier: TestInstaller
+PackageName: Test
+ShortDescription: Testing Winget
+PackageVersion: 1.0.0
+PackageLocale: en-US
+License: MIT
+Publisher: Winget
+Installers:
+ - Architecture: x64
+   InstallerType: exe
+   InstallerUrl: https:example.com/example.exe
+   InstallerSha256: Sha256 Hash Of The Installer
+ManifestType: singleton
+ManifestVersion: 1.0.0
