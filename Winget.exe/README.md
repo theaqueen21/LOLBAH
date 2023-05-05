@@ -56,6 +56,7 @@ winget install --manifest manifest.yml
 ![8](https://user-images.githubusercontent.com/94680549/236500390-3205477b-00f0-43f4-a22c-b24547da6eb5.jpg)
 
 > For Further Settings Documention Visit: [Documentation]
+
 [Documentation]: https://aka.ms/winget-settings
 
 
