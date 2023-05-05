@@ -12,7 +12,7 @@ Looking For Any Weird Behavior In ProcMon, It Is Seen That tpmtool.exe Spawns A 
 
 ![2](https://user-images.githubusercontent.com/94680549/228516637-ff1931a2-0266-45bc-a5b1-c413deaeaa94.png)
 
-Inclusing cmd.exe Process Name As A Filter, It Is Seen That cmd.exe Makes Use Of Another Windows Utility Called logman.exe
+Including cmd.exe Process Name As A Filter, It Is Seen That cmd.exe Makes Use Of Another Windows Utility Called logman.exe
 
 ![3](https://user-images.githubusercontent.com/94680549/228520122-7ee024ff-5272-4a33-bc31-7f73f0f7defc.png)
 
