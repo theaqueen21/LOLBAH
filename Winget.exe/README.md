@@ -34,6 +34,7 @@ winget settings --enable localmanifestfiles
 ![5](https://user-images.githubusercontent.com/94680549/236494421-2ee0a9d9-04b6-4cd3-9199-3cc99b46e60b.jpg)
 
 4. Create A ManifestFile Named manifest.yml, Similar To The [Example] Provided, But With The Fields Updated To Reflect Your Specific Information. 
+
 [Example]: https://github.com/theaqueen21/LOLBAH/blob/main/Winget.exe/manifest.yml
 
 5. Enter The Command Below To Download And Run/Install The Rogue Software Or Package
