@@ -46,7 +46,7 @@ Instead Of The Calculator You Can Make Use Of Malware Or Other Windows Utilities
 
 >Note: In The System Logs Nothing Out Of The Ordinary Is Present Which Makes Analysis For The SysAdmin Or The Blue Team Members Harder
 
-![7](https://user-images.githubusercontent.com/94680549/228524393-da8affc6-b405-4bc7-bddd-6ec7b1a289a0.png)
+![7](https://user-images.githubusercontent.com/94680549/236515570-6c8bcfd8-7161-4691-aaa8-0c2cfa050549.png)
 
 
 [Grzegorz Tworek]: https://twitter.com/0gtweet
