@@ -41,7 +41,7 @@ winget settings --enable localmanifestfiles
 
 5. Enter The Command Below To Download And Run/Install The Rogue Software Or Package
 
-> Note: The Command Will Not Work If The SHA256 Hash Of The exe Is Invalid Or The manifest.yml File Is In Another Directory
+> Note: The Command Will Not Work If The SHA256 Hash Of The Installer/Package Is Invalid Or The manifest.yml File Is In Another Directory
 
 ```
 winget install --manifest manifest.yml
